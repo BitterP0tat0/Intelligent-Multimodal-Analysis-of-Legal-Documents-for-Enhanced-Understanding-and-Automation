@@ -1,0 +1,83 @@
+﻿method,true_label,recall_at_5,mrr_at_5,n
+BM25_leakage_controlled,Governing Law,1.0,1.0,31
+BM25_leakage_controlled,Most Favored Nation,1.0,1.0,1
+BM25_leakage_controlled,No-Solicit Of Employees,1.0,0.75,6
+BM25_leakage_controlled,Price Restrictions,1.0,0.6,2
+BM25_leakage_controlled,Source Code Escrow,1.0,0.7916666666666666,8
+BM25_leakage_controlled,Termination For Convenience,1.0,0.7777777777777778,12
+BM25_leakage_controlled,Third Party Beneficiary,1.0,0.875,4
+BM25_leakage_controlled,Document Name,0.967741935483871,0.9274193548387096,31
+BM25_leakage_controlled,Expiration Date,0.9642857142857143,0.7803571428571429,28
+BM25_leakage_controlled,License Grant,0.96,0.8733333333333333,50
+BM25_leakage_controlled,Anti-Assignment,0.9545454545454546,0.853030303030303,44
+BM25_leakage_controlled,Parties,0.948051948051948,0.9101731601731601,77
+BM25_leakage_controlled,Uncapped Liability,0.9411764705882353,0.6441176470588235,17
+BM25_leakage_controlled,Audit Rights,0.9354838709677419,0.8440860215053764,31
+BM25_leakage_controlled,Warranty Duration,0.9333333333333333,0.88,15
+BM25_leakage_controlled,Cap On Liability,0.9318181818181818,0.7859848484848485,44
+BM25_leakage_controlled,Insurance,0.9285714285714286,0.8472222222222223,42
+BM25_leakage_controlled,Agreement Date,0.9,0.825,10
+BM25_leakage_controlled,Change Of Control,0.8888888888888888,0.7083333333333334,18
+BM25_leakage_controlled,Revenue/Profit Sharing,0.8846153846153846,0.7724358974358974,26
+BM25_leakage_controlled,Covenant Not To Sue,0.8333333333333334,0.7111111111111111,12
+BM25_leakage_controlled,Ip Ownership Assignment,0.8,0.675,20
+BM25_leakage_controlled,Joint Ip Ownership,0.75,0.75,4
+BM25_leakage_controlled,Non-Disparagement,0.75,0.5833333333333333,4
+BM25_leakage_controlled,Post-Termination Services,0.75,0.5216666666666667,40
+BM25_leakage_controlled,Minimum Commitment,0.7307692307692307,0.5782051282051281,26
+BM25_leakage_controlled,Rofr/Rofo/Rofn,0.7241379310344828,0.6132183908045976,29
+BM25_leakage_controlled,Renewal Term,0.6666666666666666,0.5277777777777778,12
+BM25_leakage_controlled,Unlimited/All-You-Can-Eat-License,0.6666666666666666,0.5,3
+BM25_leakage_controlled,Exclusivity,0.64,0.4946666666666667,25
+BM25_leakage_controlled,Non-Compete,0.6,0.5,20
+BM25_leakage_controlled,Volume Restriction,0.5833333333333334,0.24861111111111112,12
+BM25_leakage_controlled,Liquidated Damages,0.5,0.3333333333333333,4
+BM25_leakage_controlled,Effective Date,0.4166666666666667,0.23194444444444443,12
+BM25_leakage_controlled,Competitive Restriction Exception,0.375,0.3125,8
+BM25_leakage_controlled,Affiliate License-Licensor,0.25,0.08333333333333333,4
+BM25_leakage_controlled,Non-Transferable License,0.22727272727272727,0.1212121212121212,22
+BM25_leakage_controlled,Affiliate License-Licensee,0.2,0.075,10
+BM25_leakage_controlled,No-Solicit Of Customers,0.2,0.1,5
+BM25_leakage_controlled,Irrevocable Or Perpetual License,0.13636363636363635,0.09090909090909091,22
+BM25_leakage_controlled,Notice Period To Terminate Renewal,0.0,0.0,9
+SBERT_leakage_controlled,Agreement Date,1.0,0.925,10
+SBERT_leakage_controlled,Audit Rights,1.0,0.9462365591397849,31
+SBERT_leakage_controlled,Document Name,1.0,1.0,31
+SBERT_leakage_controlled,Governing Law,1.0,0.9758064516129032,31
+SBERT_leakage_controlled,Insurance,1.0,0.9511904761904763,42
+SBERT_leakage_controlled,Most Favored Nation,1.0,0.25,1
+SBERT_leakage_controlled,Price Restrictions,1.0,0.6,2
+SBERT_leakage_controlled,Source Code Escrow,1.0,0.74375,8
+SBERT_leakage_controlled,Termination For Convenience,1.0,0.7291666666666666,12
+SBERT_leakage_controlled,Anti-Assignment,0.9772727272727273,0.8833333333333333,44
+SBERT_leakage_controlled,Parties,0.974025974025974,0.974025974025974,77
+SBERT_leakage_controlled,Expiration Date,0.9642857142857143,0.8839285714285714,28
+SBERT_leakage_controlled,License Grant,0.88,0.659,50
+SBERT_leakage_controlled,Warranty Duration,0.8666666666666667,0.8666666666666667,15
+SBERT_leakage_controlled,Cap On Liability,0.8636363636363636,0.7602272727272728,44
+SBERT_leakage_controlled,No-Solicit Of Employees,0.8333333333333334,0.6166666666666667,6
+SBERT_leakage_controlled,Uncapped Liability,0.8235294117647058,0.5980392156862745,17
+SBERT_leakage_controlled,Ip Ownership Assignment,0.8,0.6583333333333333,20
+SBERT_leakage_controlled,Change Of Control,0.7777777777777778,0.5833333333333334,18
+SBERT_leakage_controlled,Post-Termination Services,0.775,0.6287499999999999,40
+SBERT_leakage_controlled,Covenant Not To Sue,0.75,0.6875,12
+SBERT_leakage_controlled,Joint Ip Ownership,0.75,0.5625,4
+SBERT_leakage_controlled,Non-Disparagement,0.75,0.75,4
+SBERT_leakage_controlled,Renewal Term,0.75,0.5305555555555556,12
+SBERT_leakage_controlled,Third Party Beneficiary,0.75,0.5625,4
+SBERT_leakage_controlled,Revenue/Profit Sharing,0.7307692307692307,0.6282051282051282,26
+SBERT_leakage_controlled,Minimum Commitment,0.6923076923076923,0.5525641025641026,26
+SBERT_leakage_controlled,Rofr/Rofo/Rofn,0.6551724137931034,0.5632183908045977,29
+SBERT_leakage_controlled,Non-Compete,0.65,0.5,20
+SBERT_leakage_controlled,Exclusivity,0.6,0.4126666666666667,25
+SBERT_leakage_controlled,Competitive Restriction Exception,0.5,0.3333333333333333,8
+SBERT_leakage_controlled,Effective Date,0.5,0.23194444444444443,12
+SBERT_leakage_controlled,Liquidated Damages,0.5,0.5,4
+SBERT_leakage_controlled,Volume Restriction,0.4166666666666667,0.30833333333333335,12
+SBERT_leakage_controlled,Affiliate License-Licensee,0.4,0.15,10
+SBERT_leakage_controlled,Unlimited/All-You-Can-Eat-License,0.3333333333333333,0.16666666666666666,3
+SBERT_leakage_controlled,Affiliate License-Licensor,0.25,0.25,4
+SBERT_leakage_controlled,Non-Transferable License,0.18181818181818182,0.06818181818181818,22
+SBERT_leakage_controlled,Irrevocable Or Perpetual License,0.09090909090909091,0.06818181818181818,22
+SBERT_leakage_controlled,No-Solicit Of Customers,0.0,0.0,5
+SBERT_leakage_controlled,Notice Period To Terminate Renewal,0.0,0.0,9
