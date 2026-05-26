@@ -1,0 +1,3 @@
+﻿model,baseline,metric,n_paired_tests,mean_improvement,bootstrap_ci_low,bootstrap_ci_high,wilcoxon_p_value
+TextPlusLayout,TextOnly,missing_f1,119,0.011462799534446086,0.0027244385238772363,0.0206372402212526,0.07571793684812779
+FrequencyPrior,TextOnly,missing_f1,119,-0.026967862796982385,-0.04033291914131952,-0.015436608225537489,6.904238156198545e-05

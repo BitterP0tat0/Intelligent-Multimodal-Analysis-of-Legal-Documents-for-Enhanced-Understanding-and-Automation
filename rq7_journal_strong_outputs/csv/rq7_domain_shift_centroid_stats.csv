@@ -1,0 +1,4 @@
+﻿dataset,n_for_centroid,centroid_norm
+CUAD,2000,0.4813823401927948
+LexGLUE_ledgar,2000,0.5957544445991516
+LexGLUE_unfair_tos,2000,0.4324062466621399

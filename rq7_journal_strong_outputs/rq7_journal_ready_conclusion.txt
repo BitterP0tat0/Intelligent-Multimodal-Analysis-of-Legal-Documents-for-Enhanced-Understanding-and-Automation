@@ -1,0 +1,15 @@
+RQ7 journal-safe conclusion:
+
+The results should be interpreted as evidence of external validity of the portable components of the framework rather than as direct CUAD-to-LexGLUE label transfer.
+Across datasets, the same evaluation protocol was applied to majority, lexical, semantic, and portable-structural variants.
+The strongest model in each dataset and its improvement over the majority baseline are:
+- CUAD: TFIDF_SBERT_PortableStructure achieved Macro-F1=0.881, improving over the majority baseline by 0.876.
+- LexGLUE_ledgar: TFIDF_SBERT_PortableStructure achieved Macro-F1=0.967, improving over the majority baseline by 0.959.
+- LexGLUE_unfair_tos: TFIDF_SBERT_PortableStructure achieved Macro-F1=0.759, improving over the majority baseline by 0.725.
+
+The generalization-gap table quantifies how far each LexGLUE result is from the CUAD reference result for the same model family. This prevents overstating cross-dataset transfer and makes the domain gap explicit.
+
+The average model-rank correlation across dataset pairs is 0.905, indicating the stability of model-family ordering across legal datasets.
+
+Recommended paper wording:
+RQ7 is supported if the portable text/semantic/structural models consistently outperform the majority baseline on CUAD and selected LexGLUE tasks, while the reported generalization gaps and centroid-distance diagnostics show that the magnitude of performance is dataset-dependent. Therefore, the framework demonstrates external validity across related legal classification tasks, but not unrestricted cross-task legal reasoning.

@@ -1,0 +1,10 @@
+﻿dataset,seed,split_type,train_n,test_n,train_labels,test_labels,contract_overlap
+CUAD,42,contract_group_split,3592,908,15,15,0
+CUAD,43,contract_group_split,3646,854,15,15,0
+CUAD,44,contract_group_split,3652,848,15,15,0
+LexGLUE_ledgar,42,stratified_split,3600,900,15,15,30
+LexGLUE_ledgar,43,stratified_split,3600,900,15,15,25
+LexGLUE_ledgar,44,stratified_split,3600,900,15,15,30
+LexGLUE_unfair_tos,42,stratified_split,1036,259,11,11,33
+LexGLUE_unfair_tos,43,stratified_split,1036,259,11,11,42
+LexGLUE_unfair_tos,44,stratified_split,1036,259,11,11,36

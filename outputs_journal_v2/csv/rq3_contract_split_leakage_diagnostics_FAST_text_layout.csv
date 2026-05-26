@@ -1,0 +1,4 @@
+﻿split_seed,n_train_contracts,n_val_contracts,n_test_contracts,train_val_overlap,train_test_overlap,val_test_overlap
+42,305,77,128,0,0,0
+43,305,77,128,0,0,0
+44,305,77,128,0,0,0
