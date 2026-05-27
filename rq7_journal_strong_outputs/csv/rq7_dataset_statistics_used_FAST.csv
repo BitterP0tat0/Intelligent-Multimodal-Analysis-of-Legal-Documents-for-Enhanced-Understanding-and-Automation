@@ -1,4 +1,0 @@
-﻿dataset,n_samples_used,n_labels_used,min_per_label,max_labels,max_samples_per_label
-CUAD,4500,15,8,15,300
-LexGLUE_ledgar,4500,15,8,15,300
-LexGLUE_unfair_tos,1295,11,8,15,300

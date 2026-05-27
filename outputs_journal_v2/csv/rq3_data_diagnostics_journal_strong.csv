@@ -1,2 +1,0 @@
-﻿n_contracts,n_clause_samples,n_all_clause_categories,n_eligible_clause_categories,min_positive_contracts_per_category,min_negative_contracts_per_category,contract_text_source,n_full_contexts_loaded
-510,11734,41,40,15,15,full_context_when_available_else_clause_bag,510

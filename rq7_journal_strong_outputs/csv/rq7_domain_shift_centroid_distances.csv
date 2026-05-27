@@ -1,4 +1,0 @@
-﻿dataset_a,dataset_b,sbert_centroid_cosine_similarity,sbert_centroid_cosine_distance
-CUAD,LexGLUE_ledgar,0.8871662616729736,0.11283373832702637
-CUAD,LexGLUE_unfair_tos,0.7678654193878174,0.23213458061218262
-LexGLUE_ledgar,LexGLUE_unfair_tos,0.677932858467102,0.32206714153289795

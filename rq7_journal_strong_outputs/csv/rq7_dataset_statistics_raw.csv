@@ -1,4 +1,0 @@
-﻿dataset,n_samples_raw,n_labels_raw,median_text_length_words,mean_text_length_words,n_contracts_or_examples
-CUAD,11734,41,38.0,47.5820692006136,510
-LexGLUE_ledgar,80000,100,84.0,112.982,60000
-LexGLUE_unfair_tos,9414,22,27.0,32.70437646059061,5532

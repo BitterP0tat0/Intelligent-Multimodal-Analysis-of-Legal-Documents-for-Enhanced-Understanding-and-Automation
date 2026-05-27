@@ -1,4 +1,0 @@
-﻿dataset_a,dataset_b,spearman_model_rank_correlation,p_value,n_models_compared
-CUAD,LexGLUE_ledgar,0.9642857142857145,0.0004541491691941689,7
-CUAD,LexGLUE_unfair_tos,0.8571428571428573,0.01369732661532562,7
-LexGLUE_ledgar,LexGLUE_unfair_tos,0.8928571428571429,0.006807187408935393,7
